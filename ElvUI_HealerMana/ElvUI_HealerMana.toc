@@ -1,0 +1,8 @@
+## Interface: 100200
+## Author: WRMSR
+## Version: 1.0
+## Title: |cff1784d1ElvUI_HealerMana|r
+## Notes: This is a test please ignore
+## RequiredDeps: ElvUI
+
+healermana.lua
